@@ -20,3 +20,5 @@ func main() {
 	}
 	fmt.Println("Sum is:", sum)
 }
+
+//Answer: 4613732
